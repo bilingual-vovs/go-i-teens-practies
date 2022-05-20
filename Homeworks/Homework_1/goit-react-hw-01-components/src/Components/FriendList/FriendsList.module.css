@@ -1,0 +1,7 @@
+.friendsList{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 100px;
+    border-radius: 10px;
+    display: flex;
+}

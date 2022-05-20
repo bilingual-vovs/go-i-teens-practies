@@ -1,0 +1,45 @@
+.avatar{
+    border-radius: 50px;
+    border-color: bisque;
+    border: 5px;
+    width: 200px;
+}
+.profile{
+    border: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: blanchedalmond;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    width: 700px;
+    height: 370px;
+    
+}
+
+.description{
+    align-self: center;
+    align-items: center;
+    display: flex;
+}
+
+.name {
+    font-family: monospace;
+    font-size: 32px;
+}
+.tag{
+    font-family: monospace;
+    font-size: 24px;
+    color: rgba(0,0,0,0.5);
+    margin-top: 170px;
+}
+.location{
+    font-family: monospace;
+    font-size: 24px;
+    margin-top: 100px;
+}
+
+.stats{
+    font-size: 24px;
+    font-family: monospace;
+    list-style: none;
+}

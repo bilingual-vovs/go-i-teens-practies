@@ -1,0 +1,12 @@
+.statistics{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(132, 132, 165, 0.315);
+    width: 700px;
+
+}
+.statList{
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+}

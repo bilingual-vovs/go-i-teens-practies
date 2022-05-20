@@ -1,0 +1,18 @@
+.item{
+    border: 2px solid;
+    border-color: aqua;
+    background-color: aliceblue;
+    list-style: none;
+    border-radius: 5px;
+    width: 140px;
+    height: 40x;
+}
+.label{
+    font-size: 24px;
+    font-family: monospace;
+    text-align: center;
+}
+.percentage{
+    font-size: 24px;
+    font-family: monospace;
+}
